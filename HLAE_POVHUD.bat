@@ -1,5 +1,6 @@
 @echo off
 
+rem Make sure the custom gameinfo in csgo-folder is named gameinfo_pov.gi
 rem EDIT THESE BELOW:
 rem CS2Path=C:\...\Steam\...\game\csgo\
 rem HLAEPath=C:\---\HLAE\HLAE.exe
